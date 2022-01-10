@@ -2,5 +2,5 @@
 тест
 sad a
 sssss
-PING  - 2
-PONG  - Pong
+PING  - 2asd asd
+PONG  - Pongasdasd
