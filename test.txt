@@ -1,5 +1,3 @@
-PING  - 1sda sda 
-PONG  - 0as d
+PING  - 1sda 124
 as dasdsadasdasdsa asd21e4 
-asdsad
-as dasdsad1111
+asdsadewq
