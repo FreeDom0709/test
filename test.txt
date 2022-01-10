@@ -2,5 +2,5 @@
 тест
 sad a
 sssss
-PING  - olek
+PING  - 2
 PONG  - Pong
