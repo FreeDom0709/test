@@ -1,4 +1,5 @@
 super
+not ok
 PONG sdsa dsa 
  -___ - -_ s-dasdsad1111
 PING  - 1sda 124sadsadasdasddssdasd
