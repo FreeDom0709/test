@@ -3,3 +3,4 @@
 
 
 PING  - olek
+PONG  - Pong
