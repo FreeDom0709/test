@@ -1,6 +1,2 @@
-Льоша Калашник
-тест
-sad a
-sssss
-PING  - 2asd asd
-PONG  - Pongasdasd
+PING  - 1
+PONG  - 0
