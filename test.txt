@@ -1,2 +1,3 @@
-PING  - 1
-PONG  - 0
+PING  - 1sda sda 
+PONG  - 0as d
+as dasdsad
